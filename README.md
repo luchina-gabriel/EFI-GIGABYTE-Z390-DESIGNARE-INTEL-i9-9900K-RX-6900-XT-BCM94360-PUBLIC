@@ -42,6 +42,8 @@
 
 ## Resultados Geekbench v6
 https://browser.geekbench.com/v6/cpu/10353938
+<br>
 https://browser.geekbench.com/v6/compute/3618131
+<br>
 https://browser.geekbench.com/v6/compute/3618133
 
