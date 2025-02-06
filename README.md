@@ -1,5 +1,7 @@
 # Hackintosh, Gigabyte Z390 Designare, Intel Core i9 9900K, AMD Radeon RX 6900 XT
 
+![Overview](https://github.com/user-attachments/assets/4a211634-80fc-4799-b124-5a06443374b8)
+
 # Basic Information
 
 **Latest working macOS**: macOS Sequoia (15.3)
